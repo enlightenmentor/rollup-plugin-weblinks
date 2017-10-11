@@ -1,0 +1,11 @@
+{
+  "name": "rollup-plugin-weblinks",
+  "version": "1.0.0",
+  "description": "Plugin for Rollup to bundle web-based resources",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sync-request": "^4.1.0"
+  }
+}
